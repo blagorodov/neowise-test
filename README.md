@@ -27,3 +27,11 @@ node server.mjs
 - Одну фразу о том, какую пользу задача даёт менеджеру и как её можно измерить.
 
 После сдачи бот может задать один-два коротких вопроса по вашему коду. Используйте учебные данные. Если не уложились по времени, отметьте незавершённые части в PR.
+
+## Test
+
+```sh
+node --test
+```
+
+The suggested topic and draft can reduce the manager's preparation time, measurable by comparing the median time spent preparing replies with and without the assistant.
